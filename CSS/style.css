@@ -1,0 +1,282 @@
+.menu{
+	background: #800080;
+	border-radius: 0;
+	margin-bottom: 0;
+	padding-left: 60px;
+	padding-right: 80px;
+}
+
+.menu .navbar-brand{
+	color: #fff;
+	font-size: 20px;
+}
+
+.menu .navbar-brand:hover{
+	text-decoration: underline;
+}
+
+.menu li a{
+	color: #fff;
+	font-size: 20px;
+}
+
+.menu li a:hover{
+	background: none;
+	text-decoration: underline;
+}
+
+.heading{
+	color: rgb(128,0,128);
+	font-size: 20px;
+	padding-top: 25px;
+	padding-left: 75px;
+	font-weight: bold;
+}
+
+.image{
+	text-align: center;
+}
+
+.image img{
+	width: 500px;
+	height: 400px;
+}
+
+.inf{
+	padding-top: 80px;
+}
+
+.inf span{
+	text-decoration: underline;
+	font-size: 20px;
+	color: rgb(128,0,128);
+	font-weight: bold;
+}
+
+.inf p{
+	font-size: 17px;
+	word-spacing: 2px;
+	line-height: 30px;
+	color: #800080;
+}
+
+.inf h4{
+	color: #800080;
+}
+
+.inf li{
+	font-size: 17px;
+	color: #800080;
+	word-spacing: 2px;
+	line-height: 25px;
+}
+
+.head{
+	background: #800080;
+	padding-top: 10px;
+	margin-top: 15px;
+}
+
+.head p{
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+	padding-left: 60px;
+}
+
+.feat{
+	margin-top: 35px;
+	margin-bottom: 10px;
+	padding-left: 45px;
+}
+
+.cont{
+	width: 23%;
+	float: left;
+	text-align: center;
+	font-size: 25px;
+	color: #800080;
+	padding-top: 18px;
+	padding-bottom: 10px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+	border: 2px solid #800080;
+}
+
+.made{
+	text-align: center;
+	margin-top: 1px;
+	padding-top: 50px;
+	padding-bottom: 50px; 
+	border: 2px solid white;
+}
+
+.made:hover{ 
+	box-shadow: 0 0 10px rgb(230,230,230);
+}
+
+.made p{
+	font-size: 25px;
+	color: #800080;
+}
+
+.bgr{
+	background: rgb(38,38,38);
+	padding-top: 40px;
+}
+
+.footer{
+	text-align: center;
+}
+
+.footer p{
+	color: #fff;
+	font-size: 22px;
+}
+
+.footer li a{
+	color: #fff;
+	font-size: 16px;
+}
+
+.foo{
+	margin-top: -40px;
+	padding-left: 30px;
+}
+
+.foo img{
+	width: 200px;
+	height: 200px;
+}
+
+.to{
+	margin-top: 30px;
+	padding-left: 60px;
+	color: #fff;
+	font-size: 16px;
+}
+
+
+/*How It Works*/
+
+.hiw-margin{
+	padding: 0;
+}
+
+.hiw-image{
+	margin-top: 50px;
+}
+
+.hiw-image img{
+	width: 700px;
+}
+
+.hiw-head{
+	margin-top: 140px;
+	text-align: center;
+}
+
+.hiw-head p{
+	font-size: 50px;
+	color: #800080;
+}
+
+.hiw-cont{
+	margin-top: 70px;
+	text-align: center;
+}
+
+.hiw-cont .col-md-2{
+	background: #800080;
+	color: #fff;
+	text-align: center;
+	padding-top: 7px;
+	font-size: 22px;
+}
+
+.hiw-cont .col-md-12{
+	padding-top: 20px;
+	font-size: 20px;
+	color: #800080;
+	padding-bottom: 50px;
+}
+
+
+/*Useful Tips*/
+
+.marg{
+	margin-top: 79px;
+	margin-bottom: 79px;
+}
+
+.tip{
+	background: #800080;
+	color: #fff;
+	text-align: center;
+	font-weight: bold;
+	letter-spacing: 1px;
+	font-size: 25px;
+	padding-top: 10px;
+	border: 2px solid #800080;
+	border-radius: 5px 5px 0 0;
+}
+
+.bord{
+	border: 2px solid #800080;
+	border-radius: 0 0 5px 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.mes{
+	width: 45%;
+	float: left;
+	margin-left: 35px;
+	margin-top: 20px;
+	padding-left: 15px;
+	border: 2px solid #800080;
+	color: #800080;
+}
+
+.mes:hover{
+	transition: .5s;
+	box-shadow: inset 0 45px rgb(128,0,128);
+	color: #fff;
+}
+
+.mes p{
+	font-size: 16px;
+	padding-top: 6px;
+}
+
+.space{
+	margin-right: 90px;
+}
+
+
+/*Contact Us*/
+
+.details{
+	margin-top: 70px;
+	margin-bottom: 50px;
+}
+
+.name p{
+	padding: 10px 10px;
+	font-size: 72px;
+	text-align: center;
+	background: #800080;
+	color: #fff;
+	border-radius: 25px; 
+	margin-bottom: 30px;
+}
+
+.mail{
+	height: 225px;
+	color: #800080;
+	padding: 20px 1px 5px 5px;
+	margin-left: 50px;
+	border: 3px solid #800080;
+	border-radius: 25px;
+	font-size: 25px;
+}
